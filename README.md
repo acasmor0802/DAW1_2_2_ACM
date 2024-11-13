@@ -90,13 +90,10 @@ Mantener el IDE actualizado es crucial porque permite acceder a nuevas funcional
 # 5. Generación de ejecutables a partir de código fuente en distintos lenguajes en un mismo IDE
 
 ## ¿Cuál fue el proceso para ejecutar el mismo programa en diferentes lenguajes dentro del mismo IDE?
-Instala Visual Studio Code y la extensión de Python.
-Crea un nuevo archivo con la extensión .py, por ejemplo, countdown.py.
-Escribe el código en el archivo.
-Ejecuta el programa en el terminal integrado con el comando python countdown.py.
+El proceso implicó instalar Visual Studio Code, agregar las extensiones necesarias para Python y Kotlin, crear archivos separados para cada lenguaje, escribir el código correspondiente en cada archivo y luego ejecutar cada programa utilizando la terminal integrada de VS Code.
 
 ## ¿Qué diferencias encontraste en la generación del ejecutable entre los dos lenguajes?
-En Python, el código se interpreta en tiempo de ejecución, lo que significa que no se genera un archivo ejecutable independiente. Esto permite una mayor flexibilidad y rapidez en el desarrollo, pero puede resultar en un rendimiento más lento en comparación con lenguajes compilados. 
+En Python, el código se ejecuta directamente a través del intérprete sin necesidad de compilarlo, mientras que en Kotlin, el código debe ser compilado antes de ejecutarse, generando un archivo .class que se puede ejecutar en la máquina virtual de Java (JVM). 
 
 ![](public/5_1.png)
 
