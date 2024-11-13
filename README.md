@@ -8,8 +8,18 @@ Visual Studio Code es ligero, rápido y versátil. Funciona bien con muchos leng
 PyCharm es más cómodo y eficiente para proyectos complejos de Python porque trae todo integrado y listo para trabajar.
 VS Code es más cómodo si buscas un editor ligero y adaptable a múltiples lenguajes, aunque requiere configuraciones adicionales para tener la misma funcionalidad completa de PyCharm.
 ![](public/1_1.png.png)
-
-
+![](public/1_2.png)
+![](public/1_3.png)
+![](public/1_4.png)
+![](public/1_5.png)
+![](public/1_6.png)
+![](public/1_7.png)
+![](public/1_8.png)
+![](public/1_9.png)
+![](public/1_10.png)
+![](public/1_11.png)
+![](public/1_12.png)
+![](public/1_13.png)
 
 
 
