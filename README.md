@@ -8,6 +8,7 @@ Visual Studio Code es ligero, rápido y versátil. Funciona bien con muchos leng
 PyCharm es más cómodo y eficiente para proyectos complejos de Python porque trae todo integrado y listo para trabajar.
 VS Code es más cómodo si buscas un editor ligero y adaptable a múltiples lenguajes, aunque requiere configuraciones adicionales para tener la misma funcionalidad completa de PyCharm.
 ![](public/1_1.png.png)
+![](public/1_14.png)
 ![](public/1_2.png)
 ![](public/1_3.png)
 ![](public/1_4.png)
@@ -34,6 +35,10 @@ Visual Studio Code depende de extensiones, que puedes instalar rápidamente desd
 ## ¿Qué beneficios proporcionan las extensiones o plugins que instalaste para el desarrollo de tus proyectos?
 En Visual Studio Code, el Python Debugger permite una depuración interactiva, facilitando el uso de puntos de interrupción y el seguimiento de variables. Por otro lado, Pylance mejora el autocompletado y proporciona análisis estático, lo que ayuda a escribir y comprender mejor el código.
 En PyCharm, las herramientas predeterminadas permiten realizar refactorizaciones avanzadas de manera segura, gestionar el control de versiones directamente desde el IDE y facilitar la escritura y ejecución de pruebas unitarias. Además, el asistente de código ofrece sugerencias y correcciones automáticas.
+![](public/2_1.png)
+![](public/2_2.png)
+![](public/2_3.png)
+
 
 
 # 3. Personalización y automatización del entorno
