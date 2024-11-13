@@ -7,19 +7,33 @@ Visual Studio Code es ligero, rápido y versátil. Funciona bien con muchos leng
 ## ¿Cuál de los IDEs te pareció más cómodo o eficiente para ejecutar el código? ¿Por qué?
 PyCharm es más cómodo y eficiente para proyectos complejos de Python porque trae todo integrado y listo para trabajar.
 VS Code es más cómodo si buscas un editor ligero y adaptable a múltiples lenguajes, aunque requiere configuraciones adicionales para tener la misma funcionalidad completa de PyCharm.
+
 ![](public/1_1.png.png)
+
 ![](public/1_14.png)
+
 ![](public/1_2.png)
+
 ![](public/1_3.png)
+
 ![](public/1_4.png)
+
 ![](public/1_5.png)
+
 ![](public/1_6.png)
+
 ![](public/1_7.png)
+
 ![](public/1_8.png)
+
 ![](public/1_9.png)
+
 ![](public/1_10.png)
+
 ![](public/1_11.png)
+
 ![](public/1_12.png)
+
 ![](public/1_13.png)
 
 
@@ -35,8 +49,11 @@ Visual Studio Code depende de extensiones, que puedes instalar rápidamente desd
 ## ¿Qué beneficios proporcionan las extensiones o plugins que instalaste para el desarrollo de tus proyectos?
 En Visual Studio Code, el Python Debugger permite una depuración interactiva, facilitando el uso de puntos de interrupción y el seguimiento de variables. Por otro lado, Pylance mejora el autocompletado y proporciona análisis estático, lo que ayuda a escribir y comprender mejor el código.
 En PyCharm, las herramientas predeterminadas permiten realizar refactorizaciones avanzadas de manera segura, gestionar el control de versiones directamente desde el IDE y facilitar la escritura y ejecución de pruebas unitarias. Además, el asistente de código ofrece sugerencias y correcciones automáticas.
+
 ![](public/2_1.png)
+
 ![](public/2_2.png)
+
 ![](public/2_3.png)
 
 
@@ -49,6 +66,14 @@ He diseñado el entorno cambiando temas, ajustando atajos de teclado y agregando
 ## ¿Cómo configuraste la automatización de tareas y en qué te benefició durante el trabajo?
 Configuré la automatización de tareas mediante el archivo tasks.json en Visual Studio Code y utilicé herramientas de CI/CD para ejecutar pruebas automáticamente. Esto redujo el tiempo en tareas repetitivas, minimizó errores y mejoró el flujo de trabajo, resultando en un desarrollo más eficiente y de mayor calidad.
 
+![](public/3_1.png)
+
+![](public/3_2.png)
+
+![](public/3_3.png)
+
+![](public/3_4.png)
+
 # 4. Configuración del sistema de actualización del entorno de desarrollo 
 
 ## ¿Cómo configuraste las actualizaciones automáticas en cada IDE?
@@ -57,6 +82,10 @@ PyCharm: Abrí el IDE y fui a "File" (Archivo) > "Settings" (Configuraciones) > 
 
 ## ¿Por qué es importante mantener el IDE actualizado en proyectos de desarrollo?
 Mantener el IDE actualizado es crucial porque permite acceder a nuevas funcionalidades, corrige errores y vulnerabilidades, asegura la compatibilidad con las últimas versiones de lenguajes y bibliotecas, y mejora el rendimiento general del entorno de desarrollo.
+
+![](public/4_1.png)
+
+![](public/4_2.png)
 
 # 5. Generación de ejecutables a partir de código fuente en distintos lenguajes en un mismo IDE
 
@@ -69,6 +98,8 @@ Ejecuta el programa en el terminal integrado con el comando python countdown.py.
 ## ¿Qué diferencias encontraste en la generación del ejecutable entre los dos lenguajes?
 En Python, el código se interpreta en tiempo de ejecución, lo que significa que no se genera un archivo ejecutable independiente. Esto permite una mayor flexibilidad y rapidez en el desarrollo, pero puede resultar en un rendimiento más lento en comparación con lenguajes compilados. 
 
+![](public/5_1.png)
+
 # 6. Generación de ejecutables con diferentes IDEs a partir del mismo código fuente 
 
 ## ¿Qué diferencias encontraste al ejecutar el mismo código fuente en diferentes IDEs?
@@ -77,3 +108,4 @@ Al probar el mismo código en Visual Studio Code y PyCharm, noté algunas difere
 ## ¿Cuál de los IDEs te pareció más cómodo o eficiente para ejecutar el código Python? ¿Por qué?
 Personalmente, encontré que PyCharm es más cómodo y eficiente para trabajar con código Python. Su enfoque en este lenguaje lo hace más intuitivo, con herramientas de depuración y gestión de entornos virtuales que están al alcance de la mano. Esto realmente facilita el desarrollo, especialmente si estás trabajando en proyectos más grandes. Aunque Visual Studio Code es genial para manejar múltiples lenguajes y es muy flexible, PyCharm me pareció más optimizado y agradable para el trabajo específico en Python.
 
+![](public/6_1.png)
